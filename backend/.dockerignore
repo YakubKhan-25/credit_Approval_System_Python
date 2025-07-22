@@ -1,0 +1,13 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Virtual Environment
+venv/
+
+# Documentation
+README.md
