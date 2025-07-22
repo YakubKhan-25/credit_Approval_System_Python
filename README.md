@@ -1,7 +1,5 @@
 # credit_Approval_System_Python
 
-# credit_Approval_System_Python
-
 A Django-based Credit Approval System for registering customers, checking loan eligibility, and managing loans. The backend uses PostgreSQL and is fully containerized with Docker for easy setup.
 
 ## What does this project do?
